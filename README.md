@@ -5,6 +5,7 @@
 [![version][github-version-badge]][github-release-page]
 [![POEditor][poeditor-image]][poeditor-url]
 [![Mastodon][social-mastodon-image]][social-mastodon]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidmehren%2Fcodimd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidmehren%2Fcodimd?ref=badge_shield)
 
 CodiMD lets you create real-time collaborative markdown notes. You can test-drive
 it by visiting our [CodiMD demo server][codimd-demo].
@@ -91,3 +92,6 @@ Licensed under AGPLv3. For our list of contributors, see [AUTHORS](AUTHORS).
 [codimd-community-calls]: https://community.codimd.org/t/codimd-community-call/19
 [social-mastodon]: https://social.codimd.org/mastodon
 [social-mastodon-image]: https://img.shields.io/mastodon/follow/18547?domain=https%3A%2F%2Fsocial.snopyta.org&style=social
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidmehren%2Fcodimd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidmehren%2Fcodimd?ref=badge_large)

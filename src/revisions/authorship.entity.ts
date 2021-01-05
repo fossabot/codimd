@@ -1,9 +1,11 @@
 import {
-  Column, CreateDateColumn,
+  Column,
+  CreateDateColumn,
   Entity,
   ManyToMany,
   ManyToOne,
-  PrimaryGeneratedColumn, UpdateDateColumn,
+  PrimaryGeneratedColumn,
+  UpdateDateColumn,
 } from 'typeorm/index';
 import { User } from '../users/user.entity';
 import { Revision } from './revision.entity';
@@ -32,14 +34,14 @@ export class Authorship {
   user: User;
 
   @Column()
-  startPos: number
+  startPos: number;
 
   @Column()
-  endPos: number
+  endPos: number;
 
   @CreateDateColumn()
-  createdAt: Date
+  createdAt: Date;
 
   @UpdateDateColumn()
-  updatedAt: Date
+  updatedAt: Date;
 }
